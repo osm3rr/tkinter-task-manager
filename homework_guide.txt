@@ -1,0 +1,35 @@
+// task_todo app - Guide to explain
+0. Creación de la ventana principal
+  .1 Agregar el titulo a la ventana
+  .2 Definir el tamaño de la ventana.
+  .3 Crear el bucle principal
+
+1. Creación de la base de datos
+
+2. Creación de la interfaz ( Etiqueta,
+botón y Labelframes -incluir la
+etiqueta de prueba para validar 
+espacio del labelframes )
+
+.1 Agregar la función que estará
+asociada al botón de add_task
+
+.2 Ubicar el foco de la aplicación 
+en el campo de entrada de datos. 
+
+.3 Realizar el bind, para limpiar 
+el campo de entrada al presionar enter.
+
+//** Continuar clase aquí. {02/11/21}
+- Repasar lo hecho hasta ahora.
+
+.4 Corregir la presentación de las
+tareas hacia el centro, con un
+anchor en los parámetros del checkbutton.
+
+.5 Corregir que la tarea se agregue sin 
+existir texto en el campo de entrada.
+3. Renderizar las tareas en la interfaz
+4. Currying aplicada (función compuesta)
+5. Seleccionando las tareas
+6. Eliminando las tareas.
